@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/tomkeech/static/css/main.eab2338c.chunk.css",
+    "main.js": "/tomkeech/static/js/main.23df3a28.chunk.js",
+    "main.js.map": "/tomkeech/static/js/main.23df3a28.chunk.js.map",
+    "runtime-main.js": "/tomkeech/static/js/runtime-main.b6ba0f37.js",
+    "runtime-main.js.map": "/tomkeech/static/js/runtime-main.b6ba0f37.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/tomkeech/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.db70349a.chunk.js": "/tomkeech/static/js/2.db70349a.chunk.js",
+    "static/js/2.db70349a.chunk.js.map": "/tomkeech/static/js/2.db70349a.chunk.js.map",
+    "index.html": "/tomkeech/index.html",
+    "precache-manifest.a121aabe085e33f31b747a9440a153b2.js": "/tomkeech/precache-manifest.a121aabe085e33f31b747a9440a153b2.js",
+    "service-worker.js": "/tomkeech/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/tomkeech/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.eab2338c.chunk.css.map": "/tomkeech/static/css/main.eab2338c.chunk.css.map",
+    "static/js/2.db70349a.chunk.js.LICENSE.txt": "/tomkeech/static/js/2.db70349a.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/tomkeech/static/media/meWallPaper.ff8d3ff0.jpg",
+    "static/media/instagram.png": "/tomkeech/static/media/instagram.c9e78916.png",
+    "static/media/me.jpg": "/tomkeech/static/media/me.f756c437.jpg",
+    "static/media/tomKeechResume.pdf": "/tomkeech/static/media/tomKeechResume.bb1ea5b7.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6ba0f37.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.db70349a.chunk.js",
+    "static/css/main.eab2338c.chunk.css",
+    "static/js/main.23df3a28.chunk.js"
+  ]
+}
